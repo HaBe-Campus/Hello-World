@@ -1,4 +1,4 @@
 "Hello World"
 
-This is my new git repository its name is Git-it
+This is my new git repository it's name is Git-it
 
